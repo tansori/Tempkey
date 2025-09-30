@@ -24,14 +24,7 @@
     "id": "bdd7b7b25d71966a",
     "username": "admin",
     "password": "admin",
-    "expiresAt": "2026-12-03",
+    "expiresAt": "2025-12-03",
     "allowOffline": false
-  },
-  {
-    "id": "7dca879e2f193723",
-    "username": "baba",
-    "password": "baba",
-    "expiresAt": "2025-11-03",
-    "allowOffline": false
-  },
+  }
 ]
