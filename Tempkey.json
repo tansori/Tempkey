@@ -1,4 +1,4 @@
-[
+p[
   {
     "id": "44b6d84f43f03e12",
     "username": "Gdcmods",
@@ -29,8 +29,8 @@
   },
   {
     "id": "7dca879e2f193723",
-    "username": "baba123",
-    "password": "baba123",
+    "username": "baba",
+    "password": "baba",
     "expiresAt": "2025-11-03",
     "allowOffline": false
   }
