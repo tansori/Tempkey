@@ -26,5 +26,12 @@
     "password": "admin",
     "expiresAt": "2026-12-03",
     "allowOffline": false
+  },
+  {
+    "id": "bdd7b7b25d71966a",
+    "username": "baba123",
+    "password": "baba123",
+    "expiresAt": "2025-11-03",
+    "allowOffline": false
   }
 ]
