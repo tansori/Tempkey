@@ -41,4 +41,11 @@
     "expiresAt": "2025-10-30",
     "allowOffline": true
   },
+  {
+    "id": "d91dfbf8146b4ec1",
+    "username": "alju",
+    "password": "alju",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
+  },
 ]
