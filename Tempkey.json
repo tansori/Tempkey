@@ -26,5 +26,12 @@
     "password": "admin",
     "expiresAt": "2025-12-03",
     "allowOffline": true
-  }
+  },
+  {
+    "id": "7dca879e2f193723",
+    "username": "baba",
+    "password": "baba",
+    "expiresAt": "2025-11-03",
+    "allowOffline": true
+  },
 ]
