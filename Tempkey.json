@@ -39,7 +39,7 @@
     "username": "alju",
     "password": "alju",
     "expiresAt": "2025-11-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "9f0b89bce51efa43",
